@@ -1,3 +1,2 @@
 ### Hello there 👋
-I am Kerim. I study CS as a freshman at Bilkent University.
-I am new here and want to discover and learn :)
+I am Kerim. I am a junior Computer Science student at Bilkent University.
